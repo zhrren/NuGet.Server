@@ -233,6 +233,5 @@ _Pvt_Extensions
 # FAKE - F# Make
 .fake/
 .vscode
-Properties
 logs/*
 settings/*
