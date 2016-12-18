@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuGet.Server", "NuGet.Server\NuGet.Server.csproj", "{D34A6334-5333-4B45-B1FE-3A5D96BFAE17}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetServer", "NugetServer\NugetServer.csproj", "{333CC2E4-683B-4240-B9C8-6A150E1C6CE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D34A6334-5333-4B45-B1FE-3A5D96BFAE17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D34A6334-5333-4B45-B1FE-3A5D96BFAE17}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D34A6334-5333-4B45-B1FE-3A5D96BFAE17}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D34A6334-5333-4B45-B1FE-3A5D96BFAE17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{333CC2E4-683B-4240-B9C8-6A150E1C6CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{333CC2E4-683B-4240-B9C8-6A150E1C6CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{333CC2E4-683B-4240-B9C8-6A150E1C6CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{333CC2E4-683B-4240-B9C8-6A150E1C6CE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

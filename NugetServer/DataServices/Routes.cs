@@ -6,9 +6,9 @@ using NuGet.Server.DataServices;
 using NuGet.Server.Publishing;
 using RouteMagic;
 
-[assembly: WebActivatorEx.PreApplicationStartMethod(typeof(NuGet.Server.NuGetRoutes), "Start")]
+[assembly: WebActivatorEx.PreApplicationStartMethod(typeof(NugetServer.NuGetRoutes), "Start")]
 
-namespace NuGet.Server {
+namespace NugetServer {
     public static class NuGetRoutes {
         public static void Start() {
 			ServiceResolver.SetServiceResolver(new DefaultServiceResolver());
